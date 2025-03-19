@@ -1,0 +1,7 @@
+{
+  "name": "Tarea Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
